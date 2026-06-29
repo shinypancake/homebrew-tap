@@ -1,8 +1,8 @@
 class WorktreeLanes < Formula
   desc "Per-worktree/lane dev+test isolation CLI (shared across repos)"
   homepage "https://github.com/shinypancake/worktree-lanes"
-  url "https://github.com/shinypancake/worktree-lanes/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "a925ad7591d12938b8f416895d4d28d565c5d1401d76d0e65b677210e8b2e835"
+  url "https://github.com/shinypancake/worktree-lanes/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "eba297d07458995e7bd7b313055d19e09ba8d4d1011233fac24455f47a5b0f05"
   license "MIT"
 
   def install
